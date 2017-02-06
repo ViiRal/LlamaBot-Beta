@@ -1,0 +1,36 @@
+{
+  "prefix": {
+    "type": "String",
+    "data": "+"
+  },
+  "disabledCommands": {
+    "type": "Array",
+    "data": []
+  },
+  "modRole": {
+    "type": "String",
+    "data": "Mods"
+  },
+  "adminRole": {
+    "type": "String",
+    "data": "Devs"
+  },
+  "lang": {
+    "type": "String",
+    "data": "en"
+  },
+  "deleteCommand": {
+    "type": "Boolean",
+    "data": false
+  },
+  "starboard": {
+    "type": "String",
+    "data": ""
+  },
+  "minAccAge": {
+    "type": "Number",
+    "data": 1800000,
+    "min": null,
+    "max": null
+  }
+}
